@@ -54,7 +54,7 @@ builds/**/images/*
 *.xxjson
 
 #expermiental code
-.exp/
+exp/*
 
 # Anything under a tmp folder
 **/tmp/*
